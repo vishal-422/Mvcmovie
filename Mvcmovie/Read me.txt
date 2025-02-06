@@ -1,0 +1,17 @@
+﻿vishal sharma - 0876754
+2025-01-15
+
+MVC Movie
+
+
+## Features  
+- Feature 1  
+- Feature 2  
+
+## Installation  
+1. Clone the repository  
+2. Install dependencies  
+3. Run the project  
+
+
+
